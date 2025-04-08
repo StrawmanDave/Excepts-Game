@@ -1,0 +1,12 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\bin\Debug\net9.0\ExceptsGame.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\bin\Debug\net9.0\ExceptsGame.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\bin\Debug\net9.0\ExceptsGame.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\obj\Debug\net9.0\ExceptsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\obj\Debug\net9.0\ExceptsGame.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\obj\Debug\net9.0\ExceptsGame.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\obj\Debug\net9.0\ExceptsGame.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\obj\Debug\net9.0\ExceptsGame.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\obj\Debug\net9.0\ExceptsGame.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\obj\Debug\net9.0\refint\ExceptsGame.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\obj\Debug\net9.0\ExceptsGame.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Excepts-Game\ExceptsGame\obj\Debug\net9.0\ref\ExceptsGame.dll
